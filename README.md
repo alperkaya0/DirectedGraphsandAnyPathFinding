@@ -7,7 +7,7 @@ Vertecies and edges relations are like given:
 
 Text Form:
 
-Node Name: Bucharest  Node Value: 0 => Node Name: Urziceni  Node Value: 0 Weight: 85.0
+Node Name: Bucharest  Node Value: 0 => Node Name: Urziceni  Node Value: 0 Weight: 85.0 \n
 Node Name: Fagaras  Node Value: 0 => Node Name: Bucharest  Node Value: 0 Weight: 211.0
 Node Name: Pitesti  Node Value: 0 => Node Name: Bucharest  Node Value: 0 Weight: 101.0
 Node Name: RimnicuViicea  Node Value: 0 => Node Name: Cralova  Node Value: 0 Weight: 146.0
